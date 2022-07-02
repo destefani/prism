@@ -6,3 +6,6 @@ _build/
 !images/content.jpg
 !images/style.jpg
 !images/artwork.jpg
+
+# Local
+data/
